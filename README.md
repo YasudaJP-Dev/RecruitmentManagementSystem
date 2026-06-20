@@ -54,3 +54,7 @@
 - [採用業務フロー](Docs/BusinessFlow.md)
 
 - [開発で学んだこと](Docs/LessonsLearned.md)
+
+## 記事
+
+- [採用管理システム開発で学んだこと](Docs/Qiita_Article_01.md)
